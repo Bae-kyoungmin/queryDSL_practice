@@ -14,7 +14,7 @@ plugins {
 }
 
 group = 'com.queryDsl_Test'
-version = '1.0.0'
+version '1.0-SNAPSHOT'
 
 java {
 	sourceCompatibility = '17'
